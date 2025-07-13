@@ -28,7 +28,7 @@ Deployed using **GitHub Pages**, the app visualizes Olympic swimming data from 1
   - Mobile-friendly and lightweight
 
 - **Data Source**:
-  - [Kaggle: Olympic Swimming History 1912–2020](https://www.kaggle.com/datasets/datasciencedonut/olympic-swimming-1912-to-2020)
+  - https://www.kaggle.com/datasets/datasciencedonut/olympic-swimming-1912-to-2020
 
 ---
 
