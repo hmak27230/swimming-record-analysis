@@ -42,4 +42,4 @@ Deployed using **GitHub Pages**, the app visualizes Olympic swimming data from 1
 ---
 
 ## 📂 Project Structure
-
+- Check Repo
