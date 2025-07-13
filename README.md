@@ -8,7 +8,7 @@ Deployed using **GitHub Pages**, the app visualizes Olympic swimming data from 1
 
 ## 🚀 Live Demo
 
-👉 
+👉 https://hmak27230.github.io/swimming-record-analysis/
 ---
 
 ## 📊 Features
