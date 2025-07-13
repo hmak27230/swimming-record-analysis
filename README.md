@@ -1,43 +1,45 @@
-🏊 Olympic Swimming Analytics (1912–2020)
-This project transforms a school data science assignment—originally built in a Jupyter Notebook—into a fully interactive web application for the analysis of Olympic swimming data from 1912 to 2020.
+# 🏊 Olympic Swimming Analytics (1912–2020)
 
-Deployed on GitHub Pages, the app showcases data visualizations, insights, and performance trends using modern web technologies like HTML, CSS, JavaScript, and Chart.js.
+This project transforms a full-stack developer school assignment—originally created as a Jupyter Notebook site—into a responsive, interactive web app.
 
-🚀 Live Demo
-👉 View the live site
+Deployed using **GitHub Pages**, the app visualizes Olympic swimming data from 1912 to 2020 through charts, stats, and insights.
 
-📊 Project Features
-Multi-tab Dashboard:
+---
 
-Overview of global participation and statistics
+## 🚀 Live Demo
 
-Medal comparison between countries
+👉 
+---
 
-Top-performing athletes and national stars
+## 📊 Features
 
-Gender distribution and event breakdowns
+- **Multi-tab Dashboard**:
+  - Overview of Olympic swimming stats
+  - Country comparisons with medal tallies
+  - Individual athlete performance
+  - Gender and event trends
 
-Performance trends over time
+- **Interactive Visualizations**:
+  - Bar, line, doughnut, and pie charts using [Chart.js](https://www.chartjs.org/)
+  - Clean transitions and tabbed navigation
 
-Interactive Charts:
+- **Modern UI/UX**:
+  - Gradient backgrounds, glassmorphism, and responsive layout
+  - Mobile-friendly and lightweight
 
-Bar, line, doughnut, and pie charts powered by Chart.js
+- **Data Source**:
+  - [Kaggle: Olympic Swimming History 1912–2020](https://www.kaggle.com/datasets)
 
-Fully responsive layout with adaptive design
+---
 
-Clean UI/UX:
+## 🛠️ Tech Stack
 
-Modern gradients and glassmorphism effects
+- HTML5 / CSS3
+- JavaScript (ES6)
+- Chart.js 3.9.1
+- GitHub Pages (hosting)
 
-Smooth tab navigation and data transitions
+---
 
-Data Source: Kaggle's Olympic Swimming History 1912–2020 dataset
+## 📂 Project Structure
 
-🛠️ Technologies Used
-HTML5 / CSS3
-
-JavaScript (ES6)
-
-Chart.js v3.9.1
-
-GitHub Pages (for hosting)
